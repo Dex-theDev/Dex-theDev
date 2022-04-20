@@ -5,9 +5,9 @@ I'm a Full-stack Software Engineer constantly working on perfecting my craft. I'
 
 #### What I'm currently working on
 
--Working with APIs to make cool apps
--Contributing to open source projects
--Networking with fellow devs in my area
+- Working with APIs to make cool apps
+- Contributing to open source projects
+- Networking with fellow devs in my area
 
 <!--
 **Dex-theDev/Dex-theDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
