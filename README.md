@@ -1,13 +1,15 @@
-# Hi I'm Dex 👋
-![Github banner](https://user-images.githubusercontent.com/76702714/164892673-b3826b0a-ce1d-49c2-8094-f689376673c9.png)
+![Github banner (Small)](https://user-images.githubusercontent.com/76702714/164892801-99a09c47-b9de-4cb9-9cf6-49da6c20e80b.png)
+
+# Hi I'm Dex 💻
+
 I'm a Full-stack Software Engineer constantly working on perfecting my craft. I'm currently learning the MERN stack and building cool stuff!
 
 
 #### What I'm currently working on
 
-- Working with APIs to make cool apps
-- Contributing to open source projects
-- Networking with fellow devs in my area
+- ✨ Working with APIs to make cool apps
+- 💻 Contributing to open source projects
+- 👩🏾‍💻 Networking with fellow devs in my area
 
 <!--
 **Dex-theDev/Dex-theDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
