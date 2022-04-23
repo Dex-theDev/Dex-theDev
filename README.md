@@ -1,5 +1,5 @@
 # Hi I'm Dex 👋
-
+![Github banner](https://user-images.githubusercontent.com/76702714/164892673-b3826b0a-ce1d-49c2-8094-f689376673c9.png)
 I'm a Full-stack Software Engineer constantly working on perfecting my craft. I'm currently learning the MERN stack and building cool stuff!
 
 
@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
