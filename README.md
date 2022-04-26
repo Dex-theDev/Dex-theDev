@@ -1,5 +1,7 @@
-![Github banner (Small)](https://user-images.githubusercontent.com/76702714/164892801-99a09c47-b9de-4cb9-9cf6-49da6c20e80b.png)
 
+<p align="center">
+  <img width="800" height="400" src="https://user-images.githubusercontent.com/76702714/164892801-99a09c47-b9de-4cb9-9cf6-49da6c20e80b.png">
+</p>
 # Hi I'm Dex 💻
 
 I'm a Full-stack Software Engineer constantly working on perfecting my craft. I'm currently learning the MERN stack and building cool stuff!
