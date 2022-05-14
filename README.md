@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="800" height="400" src="https://user-images.githubusercontent.com/76702714/164892801-99a09c47-b9de-4cb9-9cf6-49da6c20e80b.png">
+  <img src="https://github.com/Dex-theDev/Dex-theDev/blob/main/github-banner2.gif?raw=true">
 </p>
 
 # Hi I'm Dex 💻
