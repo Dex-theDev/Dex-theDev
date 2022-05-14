@@ -19,6 +19,7 @@ I'm a Full-stack Software Engineer constantly working on perfecting my craft. I'
                   
   <p align="left"> <a href="https://dexthedev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dex-joseph" target="_blank" rel="noreferrer">&emsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/DextheDev_" target="_blank" rel="noreferrer">&emsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+<!--
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=pink)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=pink)
@@ -27,6 +28,7 @@ I'm a Full-stack Software Engineer constantly working on perfecting my craft. I'
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=pink)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=pink)
+-->
 
 <!--
 **Dex-theDev/Dex-theDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
