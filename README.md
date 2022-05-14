@@ -15,6 +15,9 @@ I'm a Full-stack Software Engineer constantly working on perfecting my craft. I'
 - 👩🏾‍💻 Networking with fellow devs in my area
 
 
+### Follow Me on Social Media!
+                  
+  <p align="left"> <a href="https://dexthedev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dex-joseph" target="_blank" rel="noreferrer">&emsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/DextheDev_" target="_blank" rel="noreferrer">&emsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=pink)
