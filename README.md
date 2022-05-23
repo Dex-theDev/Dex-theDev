@@ -5,7 +5,7 @@
 
 <h1 align='center'> Hi I'm Dex 💻</h1>
 
-I'm a Full-stack Software Engineer constantly working on perfecting my craft. I'm currently learning the MERN stack and building cool stuff!
+<p align='center'>I'm a Full-stack Software Engineer constantly working on perfecting my craft. I'm currently learning the MERN stack and building cool stuff! When I'm not coding the day away, you can find me chasing my cats, or catching up on some anime 💜</p>
 
 <p>&nbsp;</p>
 <h4 align='center'> What I'm currently working on</h4>
