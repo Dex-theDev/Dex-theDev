@@ -39,8 +39,9 @@ I'm a Full-stack Software Engineer constantly working on perfecting my craft. I'
   
   <img width=450px height= 450px src="https://github.com/Dex-theDev/Dex-theDev/blob/main/nasapage.gif?raw=true">
   </p>
+  <p>&nbsp;</p>
   <p align='center'>
-  <img width=450px height=450px src="https://github.com/Dex-theDev/Dex-theDev/blob/main/friendpage.gif?raw=true">
+  <img width=575px height=450px src="https://github.com/Dex-theDev/Dex-theDev/blob/main/friendpage.gif?raw=true">
   </p>
     
 <!--
