@@ -26,6 +26,20 @@ I'm a Full-stack Software Engineer constantly working on perfecting my craft. I'
 <a href="http://www.github.com/dex-thedev"><img width="450px" src="https://github-readme-stats.vercel.app/api?username=dex-thedev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dex-thedev's GitHub stats" /></a>
 <a href="http://www.github.com/dex-thedev"><img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=dex-thedev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   </p>
+  <p>
+  </p>
+  <h3 align="center">
+  Featured Projects
+  </h3>
+  
+  
+  <p align="center">
+  
+  <img width=450px height= 450px src="https://github.com/Dex-theDev/Dex-theDev/blob/main/nasapage.gif?raw=true">
+  <img width=450px height=450px src="https://github.com/Dex-theDev/Dex-theDev/blob/main/friendpage.gif?raw=true">
+  </p>
+    <p align="center"> Go Beyond, NYC Stargazers &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What are Friends For?</p>
+  
 <!--
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=pink)
