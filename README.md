@@ -27,23 +27,27 @@ I'm a Full-stack Software Engineer constantly working on perfecting my craft. I'
 <a href="http://www.github.com/dex-thedev"><img width="450px" src="https://github-readme-stats.vercel.app/api?username=dex-thedev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dex-thedev's GitHub stats" /></a>
 <a href="http://www.github.com/dex-thedev"><img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=dex-thedev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   </p>
+  <h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="100"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="100" height="100"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="100" height="100"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="100" height="100"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="100" height="100"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height="100"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="100" height="100"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="100" height="100"/> </a> </p>
+
   <p>
   </p>
   <p>&nbsp;</p>
   <h3 align="center">
   Featured Projects
   </h3>
+  <p>&nbsp;</p>
   
-  
-  <p align="center">
-  
+  <div align='center'>
+  <p align='center'>Go Beyond... NYC Stargazers</p>
   <img width=450px height= 450px src="https://github.com/Dex-theDev/Dex-theDev/blob/main/nasapage.gif?raw=true">
   </p>
   <p>&nbsp;</p>
   <p align='center'>
+  <p align='center'>What Are Friends For? Advice Generator</p>
   <img width=575px height=450px src="https://github.com/Dex-theDev/Dex-theDev/blob/main/friendpage.gif?raw=true">
   </p>
-    
+    </div>
 <!--
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=pink)
