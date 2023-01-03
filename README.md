@@ -5,13 +5,13 @@
 
 <h1 align='center'> Hi I'm Dex 💻</h1>
 
-<p align='center'>I'm a Full-stack Software Engineer constantly working on perfecting my craft. I'm currently learning the MERN stack and building cool stuff! When I'm not coding the day away, you can find me chasing my cats, or catching up on some anime 💜</p>
+<p align='center'>I'm a Software Engineer constantly working on perfecting my craft. I love to build and design large scale systems!  When I'm not coding the day away, you can find me chasing my cats, or catching up on some anime 💜</p>
 
 <p>&nbsp;</p>
 <h4 align='center'> What I'm currently working on</h4>
 
 
-<p align='center'> ✨ Working with APIs to make cool apps</p>
+<p align='center'> ✨ Building and designing APIs</p>
 <p align='center'> 💻 Contributing to open source projects</p>
 <p align='center'> 👩🏾‍💻 Networking with fellow devs in my area</p>
 <p>&nbsp;</p>
@@ -33,21 +33,7 @@
   <p>
   </p>
   <p>&nbsp;</p>
-  <h3 align="center">
-  Featured Projects
-  </h3>
-  <p>&nbsp;</p>
-  
-  <div align='center'>
-  <p align='center'>Go Beyond... NYC Stargazers</p>
-  <img width=450px height= 450px src="https://github.com/Dex-theDev/Dex-theDev/blob/main/nasapage.gif?raw=true">
-  </p>
-  <p>&nbsp;</p>
-  <p align='center'>
-  <p align='center'>What Are Friends For? Advice Generator</p>
-  <img width=575px height=450px src="https://github.com/Dex-theDev/Dex-theDev/blob/main/friendpage.gif?raw=true">
-  </p>
-    </div>
+ 
 <!--
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=pink)
